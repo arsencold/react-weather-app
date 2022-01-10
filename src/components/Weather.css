@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+
+input {
+  padding: 15px;
+  width: 80%;
+  margin: auto;
+  border: 1px solid lightgrey;
+  border-radius: 6px;
+  font-size: 20px;
+  background: rgb(216, 191, 191);
+}
+p {
+  padding-top: 20px;
+  position: sticky;
+  margin: 0 auto;
+  display: flex;
+  font-size: 25px;
+  font-weight: bold;
+}
+body {
+  background: rgba(0, 0, 0, 0.5);
+}
